@@ -1,21 +1,4 @@
----
-title: "Working with tabs (Simple Approach)"
-author: "siju.swamy@saintgits.org"
-date: "`r Sys.Date()`"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE,message = FALSE,warning = FALSE)
-```
-
-```{r, echo=FALSE}
-library(ggplot2) # for plotting
-library(plotly)  # for interactive plotting
-library(dplyr)   # for filtering
-#library("magrittr") # managing sematics
-library("DT") # for interactive tables
-```
 
 ## Comparing Diamond Prices by Carat Across Different Cut Qualities {.tabset}
 
