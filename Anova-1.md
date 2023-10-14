@@ -1,14 +1,4 @@
----
-title: "One- Way ANOVA Using R"
-author: "saniya k.org"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: slidy_presentation
-css: custom.css
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = T)
-```
 
 ## ANOVA Test
 
