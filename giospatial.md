@@ -1,16 +1,5 @@
----
-title: "Introduction to Geospatial Data Visualization with R"
-author: "siju.swamy@saintgits.org"
-date: "`r format(Sys.time(), '%Y-%m-%d')`"
-output:
-  bookdown::html_document2
-bibliography: bibliography.bib
-link-citations: yes
----
 
-```{r uq1, echo=F, fig.cap="", message=FALSE, warning=FALSE, out.width='100%'}
-knitr::include_graphics("https://slcladal.github.io/images/uq1.jpg")
-```
+
 
 # Introduction{-}
 
